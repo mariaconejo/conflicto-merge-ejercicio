@@ -1,3 +1,3 @@
 # conflicto-merge-ejercicio
-# Bienvenidos al repositorio de práctica. Esta línea fue editada en rama-A.
+# Esta línea fue editada en ambas ramas y se resolvió el conflicto.
 
