@@ -1,4 +1,5 @@
 # conflicto-merge-ejercicio
-# Proyecto de prueba Bienvenidos al repositorio de práctica.
+# Bienvenidos al repositorio de práctica. Esta línea fue editada en ramaB
+
 
 
